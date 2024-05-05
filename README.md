@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there, My name is Muhammad Rafli Rangga Pratama👋
 
-About Me
-My name is Muhammad Rafli Rangga Pratama and I'm very interested in learning web programming
+### About Me
+I'm a college student and I'm very interested in learning web programming
 
-Skill
+### Skills
 Languages: HTML, CSS
 Frontend: Bootstrap
 
