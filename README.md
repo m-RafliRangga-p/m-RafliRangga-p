@@ -4,8 +4,8 @@
 I'm a college student and I'm very interested in learning web programming
 
 ## Skills
-Languages: HTML, CSS
-Frontend: Bootstrap
+- Languages  : HTML, CSS
+- Frontend   : Bootstrap
 
 
 <!--
