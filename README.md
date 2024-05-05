@@ -7,6 +7,9 @@ I'm a college student and I'm very interested in learning web programming
 - Languages  : HTML, CSS
 - Frontend   : Bootstrap
 
+## Get in Touch
+- LinkedIn: www.linkedin.com/in/rafli-rangga-65ba872b6
+
 
 <!--
 **m-RafliRangga-p/m-RafliRangga-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
