@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+#About Me
+My name is Muhammad Rafli Rangga Pratama and I'm very interested in learning web programming
+
+#Skill
+Languages: HTML, CSS
+Frontend: Bootstrap
+
+
 <!--
 **m-RafliRangga-p/m-RafliRangga-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
