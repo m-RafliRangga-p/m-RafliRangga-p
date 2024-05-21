@@ -9,6 +9,7 @@ I'm a college student and I'm very interested in learning web programming
 
 ## Get in Touch
 - LinkedIn: www.linkedin.com/in/rafli-rangga-65ba872b6
+- Email: raflirangga35@gmail.com
 
 
 <!--
